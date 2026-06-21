@@ -1,7 +1,7 @@
 ---
 layout: archive-wide
 title: "Active Car Monitor"
-excerpt: "A way to monitor and analyze car metrics over the course of a drive<br/><img src='/images/Car-project-setup.jpg' width=500><img src='/images/heat-map-rpm.png' width=400>"
+excerpt: "A way to monitor and analyze car metrics over the course of a drive<br/><img src='/images/Car-project-setup.jpg' width=500> <img src='/images/heat-map-RPM.png' width=400>"
 collection: portfolio
 author_profile: false
 share: false
